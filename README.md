@@ -1,6 +1,6 @@
-# video
+# Youtube Video Player
 
-A new Flutter project.
+A basic Flutter project. Displaying anime trailer or short clips from YouTube.
 
 ## Getting Started
 
