@@ -1,6 +1,6 @@
 # Youtube Video Player
 
-A basic Flutter project. Displaying anime trailer or short clips from YouTube.
+A basic Flutter project. Displaying anime trailers or short clips from YouTube. Make sure to install dependencies using "_flutter pub get_".
 
 ## Getting Started
 
